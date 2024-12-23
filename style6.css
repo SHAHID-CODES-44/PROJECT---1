@@ -1,0 +1,107 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; 
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    height: 100vh;
+    width: 100vw;
+    box-shadow: 0 0 20px var(--clr);
+    transition-duration: 0.5s;
+    color: white;
+    border-radius: 20px;
+}
+#oth {
+    width: 800px;
+    height: 500px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 10px; /* Adjusted for spacing */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#first {
+    width: 700px;
+    height: 400px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 15px; /* Spacing increased */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#second {
+    width: 600px;
+    height: 300px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#third {
+    width: 500px;
+    height: 200px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fourth {
+    width: 400px;
+    height: 100px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fifth {
+    width: 300px;
+    height: 80px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sixth {
+    width: 200px;
+    height: 60px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#seventh {
+    width: 100px;
+    height: 40px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#eight {
+    width: 80px;
+    height: 30px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#thank {
+    color: black;
+    width: 50px;
+    height: 20px;
+    box-shadow: 0 0 20px var(--clr);
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
